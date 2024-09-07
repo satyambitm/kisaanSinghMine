@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import {Link, ScrollLink} from 'react-scroll';
 import './Navbar.css'
 // import logo from '../../assets/'
-import logo from '../../assets/logo-removebg-preview.png'
+import logo from '../../assets/ks1.png'
 import menu_icon from '../../assets/edusity_assets/menu-icon.png'
 
 const Navbar = () => {
